@@ -1,0 +1,10 @@
+{
+    "name":"Sanjoy",
+    "age":25,
+    "contact":{
+        "ph1":"333",
+        "ph2":"111"
+    },
+    "mode":"development",
+    "mongoUrl":"mongodb://localhost:27017/userDB"
+}
